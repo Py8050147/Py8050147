@@ -73,7 +73,7 @@ looking_for: "Opportunities in startups & MNCs to build impactful solutions"
 <tr>
 <td width="50%">
 
-### 🏗️ Docline
+  ### 🏗️ Docline
 Documentation and workflow management platform for streamlined content organization and team collaboration.
 
 <em>React · Node.js · MongoDB</em>
@@ -81,7 +81,7 @@ Documentation and workflow management platform for streamlined content organizat
 </td>
 <td width="50%">
 
-### 🍫 Choco App
+   ### 🍫 Choco App
 An elegant, modern web application focused on seamless UX and performance.
 
 <em>React · Next.js · Tailwind CSS</em>
